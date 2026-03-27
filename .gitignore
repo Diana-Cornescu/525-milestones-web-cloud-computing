@@ -1,3 +1,4 @@
 # .gitignore
 data/extracted_downloads
 data/zip_downloads
+data/clean
